@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Alwar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-29T15:21:47.422Z",
+      "notes": "sdsdaas",
+      "position": {
+        "lat": "27.580088587427642",
+        "lng": "76.66674225716213"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-29T15:23:29.296Z",
+      "notes": "xsx",
+      "position": {
+        "lat": "39.99462977667753",
+        "lng": "0.004139884321072707"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-29T15:28:00.954Z",
+      "notes": "ASDa",
+      "position": {
+        "lat": "40.005540403025364",
+        "lng": "-0.04513821137807739"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Alwar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-29T16:43:36.776Z",
+      "notes": "sdqwdq",
+      "position": {
+        "lat": "27.572066427456313",
+        "lng": "76.65626851556753"
+      },
+      "id": 4
+    }
+  ]
+}
