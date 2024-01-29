@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Alwar",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-12-29T15:21:47.422Z",
-      "notes": "sdsdaas",
-      "position": {
-        "lat": "27.580088587427642",
-        "lng": "76.66674225716213"
-      },
-      "id": 1
-    },
-    {
       "cityName": "Castello de la Plana",
       "country": "Spain",
       "emoji": "🇪🇸",
