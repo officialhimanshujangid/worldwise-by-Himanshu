@@ -20,7 +20,7 @@ const HomePage = lazy(() => import("./pages/HomePage"));
 const Product = lazy(() => import("./pages/Product"));
 const Pricing = lazy(() => import("./pages/Pricing"));
 const Login = lazy(() => import("./pages/Login"));
-const APPLayout = lazy(() => import("./pages/AppLayout"));
+const APPLayout = lazy(() => import("./pages/APPLayout"));
 const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 
 function App() {
